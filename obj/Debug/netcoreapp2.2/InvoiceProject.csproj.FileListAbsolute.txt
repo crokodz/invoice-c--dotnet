@@ -1,0 +1,11 @@
+C:\Users\croko\Desktop\DotNetCore_InvoiceApp\TechnicalTest-master\InvoiceProject\obj\Debug\netcoreapp2.2\InvoiceProject.csproj.CoreCompileInputs.cache
+C:\Users\croko\Desktop\DotNetCore_InvoiceApp\TechnicalTest-master\InvoiceProject\obj\Debug\netcoreapp2.2\InvoiceProject.AssemblyInfoInputs.cache
+C:\Users\croko\Desktop\DotNetCore_InvoiceApp\TechnicalTest-master\InvoiceProject\obj\Debug\netcoreapp2.2\InvoiceProject.AssemblyInfo.cs
+C:\Users\croko\Desktop\DotNetCore_InvoiceApp\TechnicalTest-master\InvoiceProject\bin\Debug\netcoreapp2.2\InvoiceProject.deps.json
+C:\Users\croko\Desktop\DotNetCore_InvoiceApp\TechnicalTest-master\InvoiceProject\bin\Debug\netcoreapp2.2\InvoiceProject.runtimeconfig.json
+C:\Users\croko\Desktop\DotNetCore_InvoiceApp\TechnicalTest-master\InvoiceProject\bin\Debug\netcoreapp2.2\InvoiceProject.runtimeconfig.dev.json
+C:\Users\croko\Desktop\DotNetCore_InvoiceApp\TechnicalTest-master\InvoiceProject\bin\Debug\netcoreapp2.2\InvoiceProject.dll
+C:\Users\croko\Desktop\DotNetCore_InvoiceApp\TechnicalTest-master\InvoiceProject\bin\Debug\netcoreapp2.2\InvoiceProject.pdb
+C:\Users\croko\Desktop\DotNetCore_InvoiceApp\TechnicalTest-master\InvoiceProject\obj\Debug\netcoreapp2.2\InvoiceProject.dll
+C:\Users\croko\Desktop\DotNetCore_InvoiceApp\TechnicalTest-master\InvoiceProject\obj\Debug\netcoreapp2.2\InvoiceProject.pdb
+C:\Users\croko\Desktop\DotNetCore_InvoiceApp\TechnicalTest-master\InvoiceProject\obj\Debug\netcoreapp2.2\InvoiceProject.genruntimeconfig.cache
